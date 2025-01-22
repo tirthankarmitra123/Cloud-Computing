@@ -1,7 +1,5 @@
 # Cloud-Computing
 
-# FIGMA
-
 COMPANY: CODTECH IT SOLUTIONS
 
 NAME: Tirthankar Mitra
@@ -16,7 +14,10 @@ NAME: Tirthankar Mitra
 
 #DESCRIPTION 
 
-Here I create a AWS S3 object storage service and upload a text file in a bucket. 
+*Task 1*: CREATE AND CONFIGURE CLOUD STORAGE ON AWS S3 OR GOOGLE CLOUD STORAGE.
+
+DELIVERABLE: A BUCKET SETUP WITH EXAMPLE FILES UPLOADED AND ACCESS PERMISSIONS CONFIGURED
+
 An Amazon S3 bucket is a public cloud storage resource available in Amazon Web Services (AWS) Simple Storage Service (S3) platform. It provides object-based storage, where data is stored inside S3 buckets in distinct units called objects instead of files.
 
 Amazon S3 buckets are similar to file folders and can be used to store, retrieve, back up and access objects. Each object has three main components -- the object's content or data, a unique identifier for the object and the descriptive metadata, including the object's name, URL and size.
