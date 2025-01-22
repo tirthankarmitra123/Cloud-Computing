@@ -61,3 +61,7 @@ Step 3: Add permissions to the user
 Go to mybucketuser1 > add permission > create inline policy > service- S3 > select all S3 actions > Resources- all > next
 policy name- user1policy > create policy
 
+*Output*
+
+![Image](https://github.com/user-attachments/assets/cc2d47b0-259d-4494-a2df-1a761ce3d18c)
+![Image](https://github.com/user-attachments/assets/4166b30d-cf6e-4bbb-852d-4b0576aee281)
